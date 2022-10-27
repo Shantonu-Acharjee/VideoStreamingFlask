@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Courgette&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    font-size: 3rem;
+    color: rgb(144 212 72);
+    margin: 10px;
+}
+
+
+.VideoStreaming{
+    width: 100%;
+    text-align: center;
+}
+
+
+.VideoStreaming img{
+    width: 60%;
+    border-radius: 10px;
+}
